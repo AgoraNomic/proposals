@@ -1,0 +1,34 @@
+id: 7868
+title: Minor Economic Fixes
+ai: 3.0
+author: Murphy
+coauthorss: []
+pended: true
+pender: Murphy
+pend_method: shinies
+distribute_date: 2017-07-22
+resolve_date: 2017-07-30
+passed: true
+text: |
+   Amend Rule 2166 (Assets) by replacing this text:
+   
+         An asset is an entity defined as such by a rule
+   
+   with this text:
+   
+         An asset is an entity defined as such by the ruleset
+   
+   Amend Rule 2491 (Estate Auctions) by replacing this text:
+   
+         At the end of an auction, if there is a single highest bid, the
+         player or Organization that placed the highest bid can cause
+         Agora to transfer the auctioned Estate to emself by paying Agora
+         the number of Shinies stated in their most recent bid.
+   
+   with this text:
+   
+         Within a week after the end of an auction, if there is a single
+         highest bid on that auction, the player or Organization that
+         placed that bid can cause Agora to transfer the auctioned Estate
+         to emself by paying Agora the number of Shinies stated in that
+         bid.
