@@ -1,0 +1,133 @@
+id: 7867
+title: Economics Overhaul v2
+ai: 2.0
+author: nichdel
+coauthorss: [o, grok, Aris]
+pended: true
+pender: CuddleBeam
+pend_method: shinies
+distribute_date: 2017-07-22
+resolve_date: 2017-07-30
+passed: true
+text: |
+   Repeal R2484 "Payday".
+   
+   Amend the rule titled "Assets" by, after the paragraph that starts with
+   "An asset generally CAN be transferred", adding:
+   
+       When a rule indicates transfering an amount that is not a natural
+       number, the specified amount is rounded up to the nearest natural
+       number.
+   
+   And by, after the paragraph that starts "The "x balance of an entity"",
+   adding:
+   
+       When a player causes one or more balances to change, e is ENCOURAGED
+       to specify the resulting balance(s). Players SHOULD NOT specify
+       inaccurate balances.
+   
+   {Just intended to make balance tracking easier inbetween Secretary
+   reports}
+   
+   Enact a Power 1 rule titled "Rewards" with the following text:
+   
+       A Reward is a specified amount of shinies associated with a Reward
+       Condition. For each time a player meets a Reward Condition, e MAY
+       claim the specified award exactly once within 24 hours of meeting the
+       Reward Condition.
+   
+       When a player 'claims' a Reward, Agora transfers the specified number
+       of shinies to the player.
+   
+       Below is an exhaustive list of Reward Conditions and eir rewards:
+   
+          * The following two only apply to proposals that were pended via
+          spending shinies:
+   
+             - Being the author of an adopted proposal: 1/40th the current
+             Floating Value.
+   
+             - Being the pender of an adopted proposal: 1/40th the current
+             Floating Value.
+   
+          * Judging a CFJ, that was created via spending shinies, that e was
+          assigned to: 1/20th the current Floating Value.
+   
+          * Publishing a duty-fulfilling report: 5 shinies.
+   
+          * Resolving an Agoran Decision for the first time this week: 5
+          shinies.
+   
+   Enact a Power 1 rule titled "Floating Value" with the following text:
+   
+       Floating Value is a natural switch. When e publishes eir Weekly
+       Report, the Secretary SHALL flip the Floating Value to Agora's shiny
+       balance.
+   
+   Set every players's shiny balance to 0.
+   
+   Set Agora's shiny balance to 1000.
+   
+   Set the Floating Value to 200.
+   
+   Enact a Power 1 rule titled "Economic Wins" with the following text:
+   
+       Stamps are an asset, identified by eir creator and tracked by the
+       Secretary.
+   
+       The Stamp Value is always 1/5th the current Floating Value.
+   
+       Once per month, a player MAY, by announcement, transfer to Agora the
+       Stamp Value, in shinies, to create a Stamp.
+   
+       Players MAY, by announcement, destroy a Stamp and cause Agora to
+       transfer the Stamp Value, in shinies, to em.
+   
+       While a player has Stamps made by at least 10 different players e MAY
+       destroy 10 stamps made by 10 different players by announcement to win
+       the game.
+   
+   Enact a Power 1 rule titled "Welcome Packages" with the following text:
+   
+       If a player has not received a Welcome Package since e most recently
+       registered, any player MAY cause em to receive one by announcement.
+   
+       When a player receives a Welcome Package, Agora transfers 50 shinies
+       to em.
+   
+   Enact a Power 1 rule titled "Action Points" with the following text:
+   
+       At the beginning of every Agoran Week, every player has 2 Action
+       Points. When a player 'spends' an Action Point, e has one less
+       Action Point. If a player has 0 Action Points, e may not spend any
+       more Action Points, rules to the contrary notwithstanding.
+   
+   Amend R2445 "How to Pend a Proposal" to read, in full:
+   
+       Imminence is a switch, tracked by the Promotor, possessed by
+       proposals in the Proposal Pool, whose value is either "pending" or
+       "not pending" (default).
+   
+       Any player CAN flip a specified proposal's imminence to "pending" by
+       announcement by:
+   
+          a) spending 1 Action Point, OR
+   
+          b) spending 1/20th the Floating Value in shinies.
+   
+   Amend R991 "Calls for Judgment" by replacing the first paragaraph with
+   the following:
+   
+       Any person (the initiator) can initiate a Call for Judgement (CFJ,
+       syn. Judicial Case), specifying a statement to be inquired into:
+   
+          a) by announcement, and spending 1 Action Point, OR
+   
+          b) by announcement, and spending 1/20th the Floating Value in
+          shinies, OR
+   
+          c) by announcement if e is not a player.
+   
+       When a person initiates a Call for Judgment, e may optionally bar one
+       person from the case.
+   
